@@ -1,0 +1,25 @@
+
+.bg-containerz {
+    background-color: #c4bad0;
+    background-size: cover;
+    padding: 20px;
+    height: 100vh;
+}
+.contactheading{
+    color: black;
+    font-size: 50px;
+    font-family: "Roboto";
+    font-style: italic;
+
+}
+.icon {
+    color: #e20e50;
+    font-size: 45px;
+}
+.paragraph {
+    color: black;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-style: italic;
+    padding-top: 23px;
+}
